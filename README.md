@@ -9,5 +9,7 @@ Execute the following commands to get the code
 ```
 wget https://github.com/jasperdenduijf/installatieopdracht/archive/master.zip
 unzip master.zip
+rm -f master.zip
 cd installatieopdracht-master/instalatieopdracht/opdracht/
+
 ```
