@@ -7,7 +7,7 @@ if a > 9:
 elif a < 9:
     print("a is kleiner dan 9")
 else:
-    print("a is gelijk aan 10")
+    print("a is gelijk aan 9")
     
     
     
